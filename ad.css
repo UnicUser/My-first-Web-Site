@@ -1,0 +1,191 @@
+@media (max-width: 1500px)
+{	
+	.bdm1
+	{
+		display: none;
+	}
+}
+
+@media (max-width: 1400px)
+{	
+	.Ladno
+	{
+		display: none;
+	}
+
+}
+
+@media (max-width: 1199px)
+{
+	.text-typing
+	{
+		font-size: 15px;
+	}
+	.mh
+	{
+		font-size: 20px;
+	}
+	.Ladno
+	{
+		display: none;
+	}
+	.field22zag
+	{
+		font-size: 25px;
+	}
+	.bt
+	{
+	   font-size: 35px;
+	}
+		.backbt
+{
+
+margin-left: 85.7%;
+margin-top: 40%;
+}
+
+.backbt1
+{
+
+margin-left: 85.7%;
+margin-top: 40%;
+}
+
+}
+
+@media (max-width: 991px)
+{
+	.text-typing
+	{
+		word-wrap: normal;
+		white-space: normal; 
+		font-size: 12px;
+		animation:none;
+	}
+	.mh
+	{
+		font-size: 20px;
+	}
+	.headzagimg
+	{
+		display: none;
+	}
+	.Ladno
+	{
+		display: none;
+	}
+		.field22zag
+	{
+		font-size: 20px;
+	}
+	.bdm1
+	{
+		background-repeat: repeat-y;
+	}
+	.field21file
+	{
+		display: none;
+	}
+	#Spisok1
+	{
+		font-size: 20px;
+	}
+	.bt
+	{
+	   font-size: 25px;
+	}
+	.field22zag2
+	{
+		font-size: 20px;
+	}
+	.txtar
+	{
+	   display: none;
+	}
+	.sender
+	{
+		width: 120px;
+	}
+	.field224
+	{
+		width: 400px;
+	}
+	.backbt
+{
+
+margin-left: 85.7%;
+margin-top: 80%;
+}
+
+.backbt1
+{
+
+margin-left: 85.7%;
+margin-top: 80%;
+}
+
+@media (max-width: 360px)
+{
+
+	.text-typing
+	{
+		word-wrap: normal;
+		white-space: normal; 
+		font-size: 8px;
+		animation:none;
+	}
+	.mh
+	{
+		font-size: 16px;
+	}
+	.headzagimg
+	{
+		display: none;
+	}
+	.Ladno
+	{
+		display: none;
+	}
+		.field22zag
+	{
+		font-size: 16px;
+	}
+	.bdm1
+	{
+		background-repeat: repeat-y;
+	}
+	.field21file
+	{
+		display: none;
+	}
+	#Spisok1
+	{
+		font-size: 16px;
+	}
+	.bt
+	{
+	   font-size: 21px;
+	}
+	.field22zag2
+	{
+		font-size: 16px;
+	}
+	.txtar
+	{
+	   display: none;
+	}
+	.sender
+	{
+		width: 100px;
+	}
+	.field224
+	{
+		width: 380px;
+	}
+	
+
+
+
+
+
+

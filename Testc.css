@@ -1,0 +1,519 @@
+.bdm
+{
+background-image: url(9550-seryj-tekstura-fon-stena-atmosfera-1600x900.jpg);
+background-repeat: no-repeat;
+background-size: cover; 
+}
+body
+{
+  height:100%;
+}
+.fieldm1
+{
+max-width: 60%;
+min-width: 30%;
+height: 30%;
+
+display: block;
+margin: 0 auto;
+margin-top: 50px;
+border-radius: 15px;
+border: none;
+background: linear-gradient(to top, #000000, #4C4949);
+opacity: 0.7;
+box-shadow: 0 0 5px 5px rgba(0,0,0,0.5)
+}
+
+.imgm
+{
+display: block;
+margin: 0 auto;
+width: 30%;
+height: 30%;
+animation: 25s linear 0s normal none infinite running rot;
+-webkit-animation: 25s linear 0s normal none infinite running rot;
+}
+
+@keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.mh
+{
+font-family: 'Stencil';
+text-align: center;
+color: white;
+font-size: 40px;
+}
+
+.bt
+{
+display: block;
+margin: 0 auto;
+font-size: 40px;
+font-family: 'Stencil';
+color:white;
+border: grey 4px solid;
+background-image: url(op.png);
+}
+
+.imgb1
+{
+height: 40px;
+width: 40px;
+}
+
+.text-typing
+{
+width: 469ch;
+max-width:  100%;
+color:white;
+padding-bottom: 5%;
+padding-left: 6%;
+font-family: 'Russo One';
+font-size: 23px;
+white-space: pre;
+overflow:hidden;
+animation: type 55s steps(400, end);   
+}
+
+@keyframes type
+{
+  from { width: 0; } 
+}
+ 
+/*-------------SECOND PAGE-----------------*/
+
+.bdm1
+{
+background-image: url(9550-seryj-tekstura-fon-stena-atmosfera-1600x900.jpg);
+background-repeat: no-repeat;
+background-size: cover; 
+}
+.bdm3
+{
+background-color: #534E4E;
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+.head1
+{
+
+background: linear-gradient(to top, #000000, #C1BABA);
+border-radius: 13px;
+max-width: 100%;
+height: 10%;
+opacity: 0.7;
+}
+
+a:any-link
+{
+ color:white;
+}
+
+a:-webkit-any-link 
+{ 
+  text-decoration: none;
+}
+
+
+.head1zag
+{
+text-decoration: none;
+color: white;
+margin-top: -10px;
+text-align: center;
+font-family: 'Stencil';
+font-size: 60px;
+}
+
+.headzagimg
+{
+
+width: 100px;
+height: 100px;	
+animation: 25s linear 0s normal none infinite running rot;
+-webkit-animation: 25s linear 0s normal none infinite running rot;
+
+}
+@keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.bimg
+{
+display: block;
+margin: 0 auto;
+margin-top: 200px;
+height: 40%;
+width: 40%;
+}
+
+.Ladno
+{
+  position: fixed;
+}
+
+.field21
+{
+height: 50%;
+width: 90% ;
+margin-left: 5%;
+margin-top: -230%;
+border-radius: 15px;
+background: linear-gradient(to top, #111711, #4C4949);
+border: none;
+opacity: 0.7;
+box-shadow: 0 0 5px 3px rgba(0,0,0,0.5)
+}
+
+.field22
+{
+position: relative;
+display: block;
+margin: 0 auto;
+margin-top: -49.7%;
+width: 50%;
+
+border-radius: 15px;
+background: linear-gradient(to top, #000000, #4C4949);
+border: none;
+opacity: 0.7;
+box-shadow: 0 0 5px 5px rgba(0,0,0,0.5);
+}
+
+
+
+#Spisok1 
+{ 
+text-align: left; 
+position: relative; 
+display: block; 
+margin: 0 auto;
+margin-top: -5%; 
+border: dashed 2px white; 
+max-width: 50%;
+min-width: 15%;  
+max-height:30%;
+padding-top: 1%; 
+padding-left: 2%;
+padding-bottom: 1%;
+padding-right: 1%;
+color: white; 
+font-family: 'Russo One'; 
+font-size: 20px; 
+}
+
+#Spisok2 
+{ 
+position: relative; 
+display: block; 
+margin: 0 auto; 
+margin-left:65%; 
+margin-top: -4%; 
+border: dashed 2px white; 
+max-width: 40%;  
+max-height:30%;
+padding-top: 2%; 
+padding-left: 2%;
+padding-bottom: 2%; 
+padding-right: 2%;
+text-align: left; 
+color: white; 
+font-family: 'Russo One'; 
+font-size: 20px; 
+}
+#Spisok3 
+{ 
+text-align: left; 
+position: relative; 
+display: block; 
+margin: 0 auto;
+margin-top: -5%; 
+border: dashed 2px white; 
+max-width: 65%;  
+max-height:30%;
+padding-top: 1%; 
+padding-left: 2%;
+padding-bottom: 1%;
+padding-right: 1%;
+color: white; 
+font-family: 'Russo One'; 
+font-size: 20px; 
+}
+
+.field22inzag
+{
+padding-left: 10px;
+text-align: left;
+color: white;
+font-family: 'Russo One';
+font-size: 15px;
+}
+
+.field21txt
+{
+margin-top: -25px;
+color: white;
+font-size: 20px;
+font-family: 'Russo One';	
+margin-left: 30px;
+}
+
+.field21file
+{
+width: 7%;
+height: 7%;
+}
+
+.field22zag
+{
+margin-top: -7px;
+text-align: center;
+color: white;
+font-family: 'Russo One';
+font-size: 30px;
+}
+
+.field22txt
+{
+padding-left: 10px;
+line-height: 1.6;
+margin-top: -2%;
+font-size: 17px;
+color: white;
+text-align: left;
+font-family: 'Russo One';
+ padding-bottom: 50px;
+}
+
+/*--------------CLasses-----------*/
+.bdm2
+{
+background: linear-gradient(to top, #000000, #4C4949, #4C4949);
+background-size: cover;
+
+}
+
+.field222
+{
+position: relative;
+display: block;
+margin: 0 auto;
+margin-top: -600px;
+width: 900px;
+height: 300px;
+background: linear-gradient(to top, #000000, #4C4949);
+}
+
+.field223
+{ 
+position: relative;
+display: block;
+margin: 0 auto;
+width: 90%;
+height: 40%;
+background-image: url(paper.jpg);
+border-radius: 15px;
+border: dashed, 2px, white;
+box-shadow: 0 0 5px 5px rgba(0,0,0,0.5)
+}
+
+.fieldtxt223
+{
+padding-left: 10px;
+padding-top: 10px;
+line-height: 1.6;
+font-size: 17px;
+color: black;
+text-align: left;
+font-family: 'Russo One';
+}
+
+.fzg224
+{
+padding-top: 10px;
+padding-left: 10px;
+color: white;
+font-family: 'Russo One';
+font-size: 25px;
+}
+
+.fieldtxt224
+{
+padding-left: 10px;
+padding-top: 1%;
+line-height: 1.6;
+font-size: 17px;
+color: white;
+text-align: left;
+font-family: 'Russo One';
+}
+
+.field224
+{
+margin-top: 200px;
+position: relative;
+display: block;
+margin: 0 auto;
+padding-right: 2%; 
+width: 90%;
+height: 40%;
+background: linear-gradient(to top, #000000,#4C4949, #4C4949);
+border-radius: 15px;
+border: none;
+box-shadow: 0 0 5px 5px rgba(0,0,0,0.5)
+}
+
+.backbt
+{
+position: fixed;
+margin-left: 85.7%;
+margin-top: 34.6%;
+}
+
+.backbt1
+{
+position: fixed;
+margin-left: 85.7%;
+margin-top: 47%;
+}
+
+#o5
+{
+display: block;
+margin: 0 auto;
+}
+
+#sc1
+{
+float: right;
+}
+
+#emp
+{
+float: right;
+}
+#emp1
+{
+margin-top: -10%;
+float: right;
+}
+
+#objk
+{
+position: relative;
+display: block;
+margin: 0 auto;
+padding-right: 2%;
+padding-bottom: 2%;
+padding-left: 2%;
+border: dashed 2px white;
+}
+
+#adm
+{
+display: block;
+margin: 0 auto;
+margin-top: -40%; 
+border: dashed 2px white;
+width: 50%;
+}
+
+#adm223
+{ 
+position: relative;
+display: block;
+margin: 0 auto;
+margin-top: -48% ;
+width: 50%;
+height: 40%;
+background-image: url(paper.jpg);
+border-radius: 15px;
+border: dashed, 2px, white;
+box-shadow: 0 0 5px 5px rgba(0,0,0,0.5)
+}
+
+.field22zag2
+{
+margin-top: -7px;
+text-align: center;
+color: black;
+font-family: 'Russo One';
+font-size: 40px;
+}
+
+.field224OBJECT
+{
+position: relative;
+display: block;
+margin: 0 auto;
+margin-top: -47%;
+padding: 2%;
+width: 45%;
+height: 40%;
+background: linear-gradient(to top, #000000,#4C4949, #4C4949);
+border-radius: 15px;
+border: none;
+box-shadow: 0 0 5px 5px rgba(0,0,0,0.5)
+}
+.field224OBJECT1
+{
+position: relative;
+display: block;
+margin: 0 auto;
+padding: 2%;
+width: 45%;
+height: 40%;
+background: linear-gradient(to top, #000000,#4C4949, #4C4949);
+border-radius: 15px;
+border: none;
+box-shadow: 0 0 5px 5px rgba(0,0,0,0.5)
+}
+
+.txtar
+{
+	display: block;
+	margin: 0 auto;
+}
+
+.sender
+{
+  color: white;
+	display: block;
+	margin-top: auto;
+  margin-left: 15%;
+}
+
+#sender
+{
+border: solid 2px white;
+}
